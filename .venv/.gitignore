@@ -1,0 +1,24 @@
+# Python and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.db
+
+# Flask-specific
+instance/
+*.log
+
+# Static uploads
+static/uploads/*
+
+# IDE-specific
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
